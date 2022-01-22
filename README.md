@@ -1,4 +1,5 @@
 Game Play
+
 Othello is a strategy board game played between 2 players. One player plays black and the other white.
 
 Each player gets 32 discs and black always starts the game.
@@ -15,6 +16,7 @@ When both players can not make a valid move the gane ends.
 
 
 Valid Moves
+
 Black always moves first.
 
 A move is made by placing a disc of the player's color on the board in a position that "out-flanks" one or more of the opponent's discs.
@@ -45,6 +47,7 @@ When a player runs out of discs, but still has opportunities to outflank an oppo
 
 
 End of the Game
+
 When it is no longer possible for either player to move, the game is over.
 
 The discs are now counted and the player with the majority of his or her color discs on the board is the winner.
@@ -53,6 +56,7 @@ A tie is possible.
 
 
 Time Limit
+
 Players can start with a preset time limit for their total number of moves. This timing element adds more pressure to the game.
 
 The clock will start counting down at the beginning of a player's first move and be paused each time they complete a turn whilst the opposing player's clock is ticking down.
@@ -63,6 +67,7 @@ When one player's clock runs out of time, no matter what the position or number 
 
 
 Handicaps
+
 Because there is an advantage in starting first, the more experienced player should give this advantage to the less experienced player.
 
 When a very skilled player is playing against an unskilled player, then the skilled player may take on a handicap by setting up the board to give his weaker opponent a four corner advantage.
